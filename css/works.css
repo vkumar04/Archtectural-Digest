@@ -1,0 +1,24 @@
+.photo {
+  display: block;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0; }
+
+#photo1 {
+  width: 18%;
+  height: 20%;
+  background-image: url("../img/works/photo1.jpg");
+  background-position: top right; }
+
+#photo2 {
+  width: 18%;
+  height: 50%;
+  background-image: url("../img/works/photo2.jpg");
+  background-position: top center; }
+
+#photo3 {
+  width: 25%;
+  height: 30%;
+  background-image: url("../img/works/photo3.jpg");
+  background-position: top; }

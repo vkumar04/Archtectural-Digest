@@ -1,0 +1,22 @@
+{
+  "name": "landing_page",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Vick Kumar <vick.kumar44@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "font-awesome": "^4.5.0"
+  }
+}
